@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProductList</string>
+    <string name="search_hint">Search Images</string>
+
+    <string name="no_images">Search for images to display</string>
+    <string name="no_internet">No internet connected</string>
+
+    <string name="search_history">Search History</string>
+    <string name="item_price">&#x53;&#x24; %s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
